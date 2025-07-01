@@ -1,4 +1,4 @@
-# 🐍 Beginner Python Activity: Create a Machine Learning API with Django and Scikit-Learn
+# SOFTDSNL - Activity 1: Python API Basics and Sci-kit Learn
 
 ## 🚀 Goals
 
