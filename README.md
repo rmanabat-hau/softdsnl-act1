@@ -31,7 +31,7 @@ git clone https://github.com/rmanabat-hau/softdsnl-act1.git
 cd softdsnl-act1
 ```
 
-### 2. Create and activate a Virtual Environment
+### 2. Create and activate a Virtual Environment (Skip this step if using HAU Lab PC. PC restrictions prevent creating VENV)
 
 ```bash
 python -m venv venv
