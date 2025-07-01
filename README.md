@@ -56,7 +56,6 @@ ml_api_project/
 │   ├── admin.py
 │   ├── apps.py
 │   ├── models.py
-│   ├── serializers.py    <-- (Optional for this activity)
 │   ├── tests.py
 │   ├── views.py          <-- (You will create this)
 │   └── urls.py           <-- (You will create this)
