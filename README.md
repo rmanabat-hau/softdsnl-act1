@@ -1,4 +1,4 @@
-# SOFTDSNL - Activity 1: Python API Basics and Sci-kit Learn
+# SOFTDSNL - Activity 2: Python API Basics and Sci-kit Learn
 
 ## 🚀 Goals
 
